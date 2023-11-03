@@ -1,0 +1,12 @@
+{ "languageList":
+    [
+    {"value":"hindi","label":"Hindi"},
+    {"value":"english","label":"English"},
+    {"value":"spanish","label":"Spanish"},
+    {"value":"french","label":"French"},
+    {"value":"tamil","label":"Tamil"},
+    {"value":"kannad","label":"Kannad"},
+    {"value":"telgu","label":"Telgu"}
+   
+]
+}

@@ -1,0 +1,86 @@
+body{
+  margin:0;
+  padding:0;
+
+}
+nav{
+  background-color: black;
+  padding:20px;
+  z-index: 100;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  right: 0;
+}
+ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+a{
+  text-decoration: none;
+  font-size: 30px;
+}
+a:hover{
+  background-color: aliceblue;
+}
+li{
+  display: inline;
+}
+  
+/* code for side bar
+
+
+/* Keep your existing CSS for the navigation bar */
+
+/* Add the following styles for the sidebar */
+.sidebar {
+  background-color: black;
+  padding: 20px;
+  width: 150px; /* Adjust the width as needed */
+  height: 100vh; /* Set the height to 100% of the viewport height */
+  position: fixed; /* Fix the sidebar's position */
+  top: 75px; /* Position it at the top of the viewport */
+  left: 0; /* Position it on the left side */
+  display: block;
+  flex-direction: column; /* Arrange links vertically */
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; /* Remove default margin to avoid spacing */
+  display: block;
+}
+
+.sidebar li {
+  margin-bottom: 10px; /* Add some margin between each link */
+}
+
+.sidebar a {
+  text-decoration: none;
+  font-size: 20px; /* Adjust the font size as needed */
+  color: white; /* Add text color for links */
+  display: block;
+  padding-block: 15px;
+}
+
+.sidebar a:hover {
+  background-color: aliceblue;
+  color: black; /* Add text color for links on hover */
+}
+/*code for the fixation of the container */
+.container{
+  margin-top: 120px;
+  padding-left: 100px;
+}
+.col-md-10 {
+  margin-top: 20px;
+}
+/*code for NavBarInner*/
+.innernavBar a:hover{
+
+  background-color: green;
+
+}
+  

@@ -1,0 +1,137 @@
+{
+  "countryList": [
+    {
+      "value": "india",
+      "label": "India",
+      "state": [
+        {
+          "value": "rajsthan",
+          "label": "Rajasthan",
+          "cities": [
+            { "value": "jaipur", "label": "Jaipur" },
+            { "value": "ajmer", "label": "Ajmer" }
+          ]
+        },
+        {
+          "value": "mumbai",
+          "label": "Mumbai",
+          "cities": [
+            { "value": "jaipur", "label": "Jaipur" },
+            { "value": "ajmer", "label": "Ajmer" }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "japan",
+      "label": "Japan",
+      "state": [
+        {
+          "value": "c",
+          "label": "C",
+          "cities": [
+            { "value": "d", "label": "D" },
+            { "value": "e", "label": "E" }
+          ]
+        },
+        {
+          "value": "g",
+          "label": "G",
+          "cities": [
+            { "value": "h", "label": "H" },
+            { "value": "i", "label": "I" }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "value": "indonesia",
+      "label": "Indonesia",
+      "state": [
+        {
+          "value": "j",
+          "label": "J",
+          "cities": [
+            { "value": "k", "label": "K" },
+            { "value": "l", "label": "L" }
+          ]
+        },
+        {
+          "value": "m",
+          "label": "M",
+          "cities": [
+            { "value": "n", "label": "N" },
+            { "value": "o", "label": "O" }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "nepal",
+      "label": "Nepal",
+      "state": [
+        {
+          "value": "p",
+          "label": "P",
+          "cities": [
+            { "value": "q", "label": "Q" },
+            { "value": "r", "label": "R" }
+          ]
+        },
+        {
+          "value": "s",
+          "label": "S",
+          "cities": [
+            { "value": "t", "label": "T" },
+            { "value": "u", "label": "U" }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "china",
+      "label": "China",
+      "state": [
+        {
+          "value": "w",
+          "label": "W",
+          "cities": [
+            { "value": "ola", "label": "Ola" },
+            { "value": "uber", "label": "Uber" }
+          ]
+        },
+        {
+          "value": "x",
+          "label": "X",
+          "cities": [
+            { "value": "rapido", "label": "Rapido" },
+            { "value": "cab", "label": "Cab" }
+          ]
+        }
+      ]
+    },
+    {
+      "value": "europe",
+      "label": "Europe",
+      "state": [
+        {
+          "value": "greatbritain",
+          "label": "Great Britan",
+          "cities": [
+            { "value": "london", "label": "London" },
+            { "value": "paris", "label": "Paris" }
+          ]
+        },
+        {
+          "value": "scotland",
+          "label": "Scotland",
+          "cities": [
+            { "value": "city 1", "label": "City1" },
+            { "value": "city 1", "label": "City2" }
+          ]
+        }
+      ]
+    }
+  ]
+}
